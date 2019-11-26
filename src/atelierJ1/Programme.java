@@ -1,4 +1,4 @@
-package projetMarie;
+package atelierJ1;
 /**
  * Marie test *
  */
